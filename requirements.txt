@@ -1,0 +1,98 @@
+aiofiles==25.1.0
+alembic==1.16.5
+annotated-types==0.7.0
+anyio==4.10.0
+attrs @ file:///C:/b/abs_89hmquz5ga/croot/attrs_1734533130810/work
+bcrypt==4.0.1
+Brotli @ file:///C:/b/abs_c415aux9ra/croot/brotli-split_1736182803933/work
+build @ file:///C:/b/abs_271clygijw/croot/python-build_1679596522238/work
+CacheControl @ file:///C:/ci_311/cachecontrol_1676427907286/work
+certifi @ file:///C:/b/abs_2bz30lzohz/croot/certifi_1754570654565/work/certifi
+cffi @ file:///C:/b/abs_29_b57if3f/croot/cffi_1736184144340/work
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+cleo @ file:///C:/b/abs_2bzi50ok0e/croot/cleo_1751038913190/work
+click==8.2.1
+colorama @ file:///C:/ci_311/colorama_1676422310965/work
+crashtest @ file:///C:/b/abs_e1brc1pn_p/croot/crashtest_1745484728688/work
+cryptography @ file:///C:/b/abs_ae5lrkywtg/croot/cryptography_1740577842775/work
+distlib @ file:///C:/b/abs_3d0zjdipjq/croot/distlib_1714717013241/work
+dulwich @ file:///C:/b/abs_5ahq422mfw/croot/dulwich_1679420068831/work
+ecdsa==0.19.1
+fastapi==0.116.1
+filelock @ file:///C:/b/abs_758187j281/croot/filelock_1744281404850/work
+greenlet==3.2.4
+h11==0.16.0
+html5lib @ file:///Users/ktietz/demo/mc3/conda-bld/html5lib_1629144453894/work
+httpcore==1.0.9
+httptools==0.6.4
+httpx==0.28.1
+idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
+importlib_metadata @ file:///C:/b/abs_9d0lp1ysmt/croot/importlib_metadata-suite_1732633510972/work
+iniconfig==2.1.0
+installer @ file:///C:/b/abs_6f5oy7pw4x/croot/python-installer_1679433040359/work
+jaraco.classes @ file:///C:/b/abs_6erueoob1v/croot/jaraco.classes_1755516340851/work
+Jinja2==3.1.6
+jsonschema @ file:///C:/b/abs_4d8dstds3t/croot/jsonschema_1753206424024/work
+jsonschema-specifications @ file:///C:/b/abs_0brvm6vryw/croot/jsonschema-specifications_1699032417323/work
+keyring @ file:///C:/b/abs_dbjc7g0dh2/croot/keyring_1678999228878/work
+lockfile==0.12.2
+Mako==1.3.10
+MarkupSafe==3.0.2
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
+more-itertools @ file:///C:/b/abs_a2n4mhb8gn/croot/more-itertools_1727185463826/work
+msgpack @ file:///C:/b/abs_4b3t4uhz3r/croot/msgpack-python_1750958631084/work
+numpy==2.3.2
+packaging @ file:///C:/b/abs_f7t3vr2_lo/croot/packaging_1753775377650/work
+pandas==2.3.2
+passlib==1.7.4
+pexpect @ file:///C:/b/abs_46m6xwp4u8/croot/pexpect_1750072615005/work
+pkginfo @ file:///C:/b/abs_79p91g_cie/croot/pkginfo_1743184772345/work
+platformdirs @ file:///C:/ci_311/platformdirs_1676422658103/work
+pluggy==1.6.0
+poetry @ file:///C:/b/abs_65dopjrhe4/croot/poetry_1680193157192/work
+poetry-core @ file:///C:/b/abs_aelwee1frx/croot/poetry-core_1680018674029/work
+poetry-plugin-export @ file:///C:/b/abs_e2f1r2s13z/croot/poetry-plugin-export_1680122811892/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pyasn1==0.6.1
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==2.11.7
+pydantic_core==2.33.2
+Pygments==2.19.2
+pyOpenSSL @ file:///C:/b/abs_6cmmt1gx_z/croot/pyopenssl_1741343840223/work
+pyproject_hooks @ file:///C:/b/abs_0a_vjpyjzx/croot/pyproject_hooks_1679584449418/work
+PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
+pytest==8.4.2
+pytest-asyncio==1.2.0
+python-dateutil==2.9.0.post0
+python-dotenv==1.1.1
+python-jose==3.5.0
+python-multipart==0.0.20
+pytz==2025.2
+pywin32-ctypes @ file:///C:/b/abs_2cfx5l4nvi/croot/pywin32-ctypes_1709340246092/work
+PyYAML==6.0.2
+RapidFuzz @ file:///C:/b/abs_396co_5qac/croot/rapidfuzz_1738592355283/work
+referencing @ file:///C:/b/abs_09f4hj6adf/croot/referencing_1699012097448/work
+requests @ file:///C:/b/abs_f53smfvswb/croot/requests_1756709376206/work
+requests-toolbelt @ file:///Users/ktietz/demo/mc3/conda-bld/requests-toolbelt_1629456163440/work
+rpds-py @ file:///C:/b/abs_0c6z5kcdb6/croot/rpds-py_1736545465023/work
+rsa==4.9.1
+shellingham @ file:///C:/ci_311/shellingham_1676431367488/work
+six==1.17.0
+sniffio==1.3.1
+SQLAlchemy==2.0.43
+starlette==0.47.3
+tomlkit @ file:///C:/b/abs_07yc6lwf0e/croot/tomlkit_1728650313581/work
+trove-classifiers @ file:///C:/b/abs_7c7nskiwke/croot/trove-classifiers_1753774592913/work
+typing-inspection==0.4.1
+typing_extensions @ file:///C:/b/abs_ecq8gc0vbm/croot/typing_extensions_1756281142218/work
+tzdata==2025.2
+urllib3 @ file:///C:/b/abs_eeswtzv5iq/croot/urllib3_1718978558630/work
+uvicorn==0.35.0
+virtualenv @ file:///C:/ci_311/virtualenv_1676431446014/work
+watchfiles==1.1.0
+webencodings==0.5.1
+websockets==15.0.1
+win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
+zipp @ file:///C:/b/abs_2fcpcg89my/croot/zipp_1732630746332/work
